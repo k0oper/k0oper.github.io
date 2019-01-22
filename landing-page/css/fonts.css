@@ -1,0 +1,13 @@
+@font-face {
+ font-family: 'font4e5950a47f09b85e2a0ffffb21e0a762';
+    
+    src:    url('https://nomail.com.ua/files/eot/4e5950a47f09b85e2a0ffffb21e0a762.eot?#iefix') format('embedded-opentype'),
+            url('https://nomail.com.ua/files/woff/4e5950a47f09b85e2a0ffffb21e0a762.woff') format('woff'),
+            url('https://nomail.com.ua/files/woff2/4e5950a47f09b85e2a0ffffb21e0a762.woff2') format('woff2');
+}
+
+@font-face { 
+	font-family: 'SegoeUIBlack-Italic';
+	src: local('SegoeUIBlack-Italic'), 
+	url('https://nomail.com.ua/files/woff/4e5950a47f09b85e2a0ffffb21e0a762.woff') format('woff'); 
+	}

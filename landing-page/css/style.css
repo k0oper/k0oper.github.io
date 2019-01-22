@@ -1,0 +1,255 @@
+/*------------------------*/
+a {
+	text-decoration: none;
+
+}
+.l-container {
+	min-width: 1340px;
+	margin: 0 auto;
+}
+.header-container {
+	display: block;
+  background: url('../img/bg-header2.png') no-repeat;
+  background-size: 1350px;
+  text-align: center;
+} 
+ .header-container__wrapper {
+  display: block;
+  margin: 0 auto;
+	width: 800px;
+}
+.simple-container {
+	display: block;
+	height: 608px;
+  background: url('../img/bg-simple.png') no-repeat;
+  background-size: 1350px;
+  text-align: center;
+}
+.footer-container__wrapper{
+	display: block;
+  margin: 0 auto;
+	width: 800px;
+}
+.footer-container {
+	display: block;
+  background: url('../img/bg-footer.png') no-repeat;
+  background-size: 1350px;
+  text-align: center;  
+}
+.header__wrapper {
+	padding-top: 5px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.b--st {
+}
+.b-logo {
+	align-items: flex-start;
+	padding-right: 29%;
+}
+.b-logo a {
+	font-family: 'font4e5950a47f09b85e2a0ffffb21e0a762', sans-serif;
+	font-size: 26px;
+	color: rgba(244, 244, 244, 255);
+}
+.b-menu {}
+.menu__item {}
+.m-item {
+	display: inline-block;
+	padding-right: 30px;
+}
+.m-item a {
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 12px;
+	color: rgba(254, 254, 254, 255);
+}
+.b-button {}
+.b-button button {
+	font-family: ﻿'Roboto';
+	font-weight: 800;
+  font-size: 11px;
+  color: rgba(46, 204, 113, 255);
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 8px 25px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.b-better {
+	margin-top: 130px;
+}
+.better__wrapper {
+	display: block;
+	text-align: left;
+}
+.b-text {
+}
+.text__logo {
+	width: 76px;
+	margin-bottom: 40px;
+}
+.text__title {
+	margin-bottom: 15px;
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 48px;
+  color: rgba(244, 244, 244, 255);
+}
+.text__title .bold {
+	font-weight: 800;
+}
+.text__paragraph {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 14px;
+  color: rgba(244, 244, 244, 255);
+  line-height: 1.6;
+  margin-bottom: 36px;
+  width: 60%;
+}
+.button__apple {
+	margin-right: 15px;
+}
+.but-1 {
+	margin-bottom: 200px;
+	height: 32px;
+}
+.b-phone .phone__iphone {
+	display: none;
+}
+.main-container {}
+.main-container__wrapper {
+	display: block;
+  margin: 0 auto;
+	width: 800px;
+}
+.b-main-app {}
+.main-app__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.b-iphone {
+text-align: left;
+margin-left: -50px;
+margin-top: -20px;
+}
+.main__iphone {
+	width: 450px;
+}
+.b-iphope-text {
+  margin-left: 25px;
+}
+.best-calorie__title {
+	margin-top: -80px;
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 30px;
+  color: rgba(90, 90, 90, 255);
+}
+.best-calorie__text {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 14px;
+  color: rgba(90, 90, 90, 255);
+  line-height: 1.6;
+  margin-top: 20px;
+}	
+.c-gre {
+	color: #2ecc71;
+}
+.b-simple {}
+.simple__wrapper {
+	display: block;
+  text-align: center;
+}
+.simple-text__title {
+	padding-top: 80px;
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 34px;
+  color: rgba(90, 90, 90, 255);
+}
+.simple-text__paragraph {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 14px;
+  color: rgba(90, 90, 90, 255);
+  line-height: 1.6;
+  padding-top: 16px;
+  width:45%;
+  margin: 0 auto;
+}
+.manage-containe {}
+.manage-container__wrapper {
+	display: block;
+  margin: 0 auto;
+	width: 800px;
+}
+.b-manage {}
+.manage__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.b-eat-text {}
+.eat__title {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 34px;
+  color: rgba(90, 90, 90, 255);
+}
+.eat__text {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 14px;
+  color: rgba(90, 90, 90, 255);
+  line-height: 1.6;
+  padding-top: 16px;
+}
+.b-eat {}
+.cloud__eat {
+	width: 400px;
+	padding: 80px 0;
+}
+.b-footer {
+}
+.footer__wrapper {
+  display: block;
+  text-align: center;
+}
+.footer-text__title {
+	padding-top: 72px;
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 34px;
+  color: rgba(244, 244, 244, 255);
+}
+.footer-text__paragraph {
+	font-family: 'Roboto';
+	font-weight: 300;
+  font-size: 14px;
+  color: rgba(244, 244, 244, 255);
+  line-height: 1.6;
+  padding-top: 16px;
+  width: 70%;
+  margin: 0 auto;
+}
+.footer-btn {
+	font-family: ﻿'Roboto';
+	font-weight: 800;
+  font-size: 11px;
+  color: rgba(46, 204, 113, 255);
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 8px 50px;
+  border: none;
+  cursor: pointer;
+  margin-top: 38px;
+  margin-bottom: 64px;
+}
+
+
